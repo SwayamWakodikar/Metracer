@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  ulpf:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2026-08-29T12:53:10.116111655Z"
+    description: A Helm chart for the Universal Log Pre-processing Framework (Metracer)
+    digest: b2eb174b594aaf16802eb9c43cab154e4d28955bb6978b0d942150e67b90b43c
+    name: ulpf
+    type: application
+    urls:
+    - https://github.com/SwayamWakodikar/Metracer/releases/download/ulpf-0.1.1/ulpf-0.1.1.tgz
+    version: 0.1.1
+generated: "2026-08-29T12:53:10.116122465Z"
